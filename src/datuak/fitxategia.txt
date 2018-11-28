@@ -1,0 +1,6 @@
+Clint::Eastwood::675657689:: San Miguel Kalea 2,3:: Kale Nagusia 4,7
+Angelina::Jolie::900893373:: Herriko Plaza 32 :: Elizondo kalea 22
+Kevin::Bacon::435779876 :: Palm Beach 45:: Central Park 21,5
+Leonardo::Di Caprio::645783923 :: California 56 :: Cincinatti 12, 7
+Jenniffer::Lawrence::567342312 :: Askatasun Etorbidea 23,6::Zumarraga kalea 34,2
+Lea::Seydoux::789657689:: Juan Bautista kalea 22, 8:: Zuhaitz Plaza 1
